@@ -1,1 +1,2 @@
 # MENTAL-HEALTH-ANALYSIS-AMONG-INDIAN-YOUTH-A-MACHINE-LEARNING-APPROACH
+Mental health has emerged as one of the most critical public health concerns worldwide, particularly among young adults and students. In India, the situation has become increasingly concerning over the past decade. According to the National Mental Health Survey (2015–16), nearly 10 percent of the adult population in India suffers from mental health disorders, with young adults aged 18 to 29 identified as the most vulnerable group.
